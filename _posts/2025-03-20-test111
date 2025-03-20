@@ -1,8 +1,0 @@
----
-layout: minimal
-title: DRUNK
-subtitle: 왜안됨;
-permalink: /encrypted_open/
----
-
-{% include_relative loghtml/drunk-Jao.html %}
