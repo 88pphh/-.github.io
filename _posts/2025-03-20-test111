@@ -5,4 +5,4 @@ subtitle: 암호화된 공개 포스트입니다.
 permalink: /encrypted_open/
 ---
 
-{% include_relative loghtml/회식-자오파.html %}
+{% include_relative loghtml/drunk-Jao.html %}
