@@ -1,0 +1,11 @@
+---
+layout: minimal
+title: 비통센터1 - 태권도
+subtitle: 뺑이치러가자
+permalink: /encrypted_open/
+tag: [roll20, 태권도]
+---
+
+출근을 합니다.
+
+{% include_relative jao-drink-protected.html %}
